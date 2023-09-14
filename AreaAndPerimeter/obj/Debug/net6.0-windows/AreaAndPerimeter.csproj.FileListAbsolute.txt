@@ -1,0 +1,16 @@
+C:\Users\Google\source\repos\AreaAndPerimeter\bin\Debug\net6.0-windows\AreaAndPerimeter.exe
+C:\Users\Google\source\repos\AreaAndPerimeter\bin\Debug\net6.0-windows\AreaAndPerimeter.deps.json
+C:\Users\Google\source\repos\AreaAndPerimeter\bin\Debug\net6.0-windows\AreaAndPerimeter.runtimeconfig.json
+C:\Users\Google\source\repos\AreaAndPerimeter\bin\Debug\net6.0-windows\AreaAndPerimeter.dll
+C:\Users\Google\source\repos\AreaAndPerimeter\bin\Debug\net6.0-windows\AreaAndPerimeter.pdb
+C:\Users\Google\source\repos\AreaAndPerimeter\obj\Debug\net6.0-windows\AreaAndPerimeter.Form1.resources
+C:\Users\Google\source\repos\AreaAndPerimeter\obj\Debug\net6.0-windows\AreaAndPerimeter.csproj.GenerateResource.cache
+C:\Users\Google\source\repos\AreaAndPerimeter\obj\Debug\net6.0-windows\AreaAndPerimeter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Google\source\repos\AreaAndPerimeter\obj\Debug\net6.0-windows\AreaAndPerimeter.AssemblyInfoInputs.cache
+C:\Users\Google\source\repos\AreaAndPerimeter\obj\Debug\net6.0-windows\AreaAndPerimeter.AssemblyInfo.cs
+C:\Users\Google\source\repos\AreaAndPerimeter\obj\Debug\net6.0-windows\AreaAndPerimeter.csproj.CoreCompileInputs.cache
+C:\Users\Google\source\repos\AreaAndPerimeter\obj\Debug\net6.0-windows\AreaAndPerimeter.dll
+C:\Users\Google\source\repos\AreaAndPerimeter\obj\Debug\net6.0-windows\refint\AreaAndPerimeter.dll
+C:\Users\Google\source\repos\AreaAndPerimeter\obj\Debug\net6.0-windows\AreaAndPerimeter.pdb
+C:\Users\Google\source\repos\AreaAndPerimeter\obj\Debug\net6.0-windows\AreaAndPerimeter.genruntimeconfig.cache
+C:\Users\Google\source\repos\AreaAndPerimeter\obj\Debug\net6.0-windows\ref\AreaAndPerimeter.dll
