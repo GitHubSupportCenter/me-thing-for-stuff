@@ -1,0 +1,16 @@
+C:\Users\Google\source\repos\1324tax\bin\Debug\net6.0-windows\1324tax.exe
+C:\Users\Google\source\repos\1324tax\bin\Debug\net6.0-windows\1324tax.deps.json
+C:\Users\Google\source\repos\1324tax\bin\Debug\net6.0-windows\1324tax.runtimeconfig.json
+C:\Users\Google\source\repos\1324tax\bin\Debug\net6.0-windows\1324tax.dll
+C:\Users\Google\source\repos\1324tax\bin\Debug\net6.0-windows\1324tax.pdb
+C:\Users\Google\source\repos\1324tax\obj\Debug\net6.0-windows\_1324tax.Form1.resources
+C:\Users\Google\source\repos\1324tax\obj\Debug\net6.0-windows\1324tax.csproj.GenerateResource.cache
+C:\Users\Google\source\repos\1324tax\obj\Debug\net6.0-windows\1324tax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Google\source\repos\1324tax\obj\Debug\net6.0-windows\1324tax.AssemblyInfoInputs.cache
+C:\Users\Google\source\repos\1324tax\obj\Debug\net6.0-windows\1324tax.AssemblyInfo.cs
+C:\Users\Google\source\repos\1324tax\obj\Debug\net6.0-windows\1324tax.csproj.CoreCompileInputs.cache
+C:\Users\Google\source\repos\1324tax\obj\Debug\net6.0-windows\1324tax.dll
+C:\Users\Google\source\repos\1324tax\obj\Debug\net6.0-windows\refint\1324tax.dll
+C:\Users\Google\source\repos\1324tax\obj\Debug\net6.0-windows\1324tax.pdb
+C:\Users\Google\source\repos\1324tax\obj\Debug\net6.0-windows\1324tax.genruntimeconfig.cache
+C:\Users\Google\source\repos\1324tax\obj\Debug\net6.0-windows\ref\1324tax.dll
