@@ -1,0 +1,16 @@
+C:\Users\Google\source\repos\change calculator\bin\Debug\net6.0-windows\change calculator.exe
+C:\Users\Google\source\repos\change calculator\bin\Debug\net6.0-windows\change calculator.deps.json
+C:\Users\Google\source\repos\change calculator\bin\Debug\net6.0-windows\change calculator.runtimeconfig.json
+C:\Users\Google\source\repos\change calculator\bin\Debug\net6.0-windows\change calculator.dll
+C:\Users\Google\source\repos\change calculator\bin\Debug\net6.0-windows\change calculator.pdb
+C:\Users\Google\source\repos\change calculator\obj\Debug\net6.0-windows\change_calculator.Form1.resources
+C:\Users\Google\source\repos\change calculator\obj\Debug\net6.0-windows\change calculator.csproj.GenerateResource.cache
+C:\Users\Google\source\repos\change calculator\obj\Debug\net6.0-windows\change calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Google\source\repos\change calculator\obj\Debug\net6.0-windows\change calculator.AssemblyInfoInputs.cache
+C:\Users\Google\source\repos\change calculator\obj\Debug\net6.0-windows\change calculator.AssemblyInfo.cs
+C:\Users\Google\source\repos\change calculator\obj\Debug\net6.0-windows\change calculator.csproj.CoreCompileInputs.cache
+C:\Users\Google\source\repos\change calculator\obj\Debug\net6.0-windows\change calculator.dll
+C:\Users\Google\source\repos\change calculator\obj\Debug\net6.0-windows\refint\change calculator.dll
+C:\Users\Google\source\repos\change calculator\obj\Debug\net6.0-windows\change calculator.pdb
+C:\Users\Google\source\repos\change calculator\obj\Debug\net6.0-windows\change calculator.genruntimeconfig.cache
+C:\Users\Google\source\repos\change calculator\obj\Debug\net6.0-windows\ref\change calculator.dll
