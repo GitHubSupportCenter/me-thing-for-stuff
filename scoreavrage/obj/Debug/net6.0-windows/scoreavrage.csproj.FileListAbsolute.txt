@@ -1,0 +1,16 @@
+C:\Users\Google\source\repos\scoreavrage\bin\Debug\net6.0-windows\scoreavrage.exe
+C:\Users\Google\source\repos\scoreavrage\bin\Debug\net6.0-windows\scoreavrage.deps.json
+C:\Users\Google\source\repos\scoreavrage\bin\Debug\net6.0-windows\scoreavrage.runtimeconfig.json
+C:\Users\Google\source\repos\scoreavrage\bin\Debug\net6.0-windows\scoreavrage.dll
+C:\Users\Google\source\repos\scoreavrage\bin\Debug\net6.0-windows\scoreavrage.pdb
+C:\Users\Google\source\repos\scoreavrage\obj\Debug\net6.0-windows\scoreavrage.Form1.resources
+C:\Users\Google\source\repos\scoreavrage\obj\Debug\net6.0-windows\scoreavrage.csproj.GenerateResource.cache
+C:\Users\Google\source\repos\scoreavrage\obj\Debug\net6.0-windows\scoreavrage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Google\source\repos\scoreavrage\obj\Debug\net6.0-windows\scoreavrage.AssemblyInfoInputs.cache
+C:\Users\Google\source\repos\scoreavrage\obj\Debug\net6.0-windows\scoreavrage.AssemblyInfo.cs
+C:\Users\Google\source\repos\scoreavrage\obj\Debug\net6.0-windows\scoreavrage.csproj.CoreCompileInputs.cache
+C:\Users\Google\source\repos\scoreavrage\obj\Debug\net6.0-windows\scoreavrage.dll
+C:\Users\Google\source\repos\scoreavrage\obj\Debug\net6.0-windows\refint\scoreavrage.dll
+C:\Users\Google\source\repos\scoreavrage\obj\Debug\net6.0-windows\scoreavrage.pdb
+C:\Users\Google\source\repos\scoreavrage\obj\Debug\net6.0-windows\scoreavrage.genruntimeconfig.cache
+C:\Users\Google\source\repos\scoreavrage\obj\Debug\net6.0-windows\ref\scoreavrage.dll
