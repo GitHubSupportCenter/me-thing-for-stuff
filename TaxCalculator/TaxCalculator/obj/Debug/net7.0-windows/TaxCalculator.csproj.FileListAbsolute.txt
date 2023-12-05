@@ -1,0 +1,16 @@
+C:\Users\Google\Desktop\TaxCalculator\TaxCalculator\bin\Debug\net7.0-windows\TaxCalculator.exe
+C:\Users\Google\Desktop\TaxCalculator\TaxCalculator\bin\Debug\net7.0-windows\TaxCalculator.deps.json
+C:\Users\Google\Desktop\TaxCalculator\TaxCalculator\bin\Debug\net7.0-windows\TaxCalculator.runtimeconfig.json
+C:\Users\Google\Desktop\TaxCalculator\TaxCalculator\bin\Debug\net7.0-windows\TaxCalculator.dll
+C:\Users\Google\Desktop\TaxCalculator\TaxCalculator\bin\Debug\net7.0-windows\TaxCalculator.pdb
+C:\Users\Google\Desktop\TaxCalculator\TaxCalculator\obj\Debug\net7.0-windows\TaxCalculator.Form1.resources
+C:\Users\Google\Desktop\TaxCalculator\TaxCalculator\obj\Debug\net7.0-windows\TaxCalculator.csproj.GenerateResource.cache
+C:\Users\Google\Desktop\TaxCalculator\TaxCalculator\obj\Debug\net7.0-windows\TaxCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Google\Desktop\TaxCalculator\TaxCalculator\obj\Debug\net7.0-windows\TaxCalculator.AssemblyInfoInputs.cache
+C:\Users\Google\Desktop\TaxCalculator\TaxCalculator\obj\Debug\net7.0-windows\TaxCalculator.AssemblyInfo.cs
+C:\Users\Google\Desktop\TaxCalculator\TaxCalculator\obj\Debug\net7.0-windows\TaxCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Google\Desktop\TaxCalculator\TaxCalculator\obj\Debug\net7.0-windows\TaxCalculator.dll
+C:\Users\Google\Desktop\TaxCalculator\TaxCalculator\obj\Debug\net7.0-windows\refint\TaxCalculator.dll
+C:\Users\Google\Desktop\TaxCalculator\TaxCalculator\obj\Debug\net7.0-windows\TaxCalculator.pdb
+C:\Users\Google\Desktop\TaxCalculator\TaxCalculator\obj\Debug\net7.0-windows\TaxCalculator.genruntimeconfig.cache
+C:\Users\Google\Desktop\TaxCalculator\TaxCalculator\obj\Debug\net7.0-windows\ref\TaxCalculator.dll
